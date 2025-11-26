@@ -4,6 +4,8 @@ To simulate a Clapp Oscillator and to obtain the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
+<img width="1144" height="958" alt="image" src="https://github.com/user-attachments/assets/e4bc2b5a-0f94-40ce-85e9-72a71b752142" />
+
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -41,5 +43,8 @@ PC with LT Spice software
 34.	## THEORITICAL CALCULATION:
 35.	
 37.	## OUTPUTS:
+38.	![WhatsApp Image 2025-11-22 at 22 19 21_c4d9b6f4](https://github.com/user-attachments/assets/4bf97495-b5ee-4b0b-ae0f-786b3bc72dd4)
 
-38.	## RESULT:
+
+39.	## RESULT:
+![WhatsApp Image 2025-11-26 at 20 01 18_ca1a7ff4](https://github.com/user-attachments/assets/15652d79-abff-4916-8a37-811cd3122836)
